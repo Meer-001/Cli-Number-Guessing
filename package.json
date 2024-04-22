@@ -1,6 +1,6 @@
 {
   "name": "meer001-cli-number-guessing",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "\"This is a Cli based number guessing game using TypeScript, Node.js and Inquirer\".",
   "main": "main.js",
   "type": "module",
